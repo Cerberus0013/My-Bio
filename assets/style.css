@@ -27,25 +27,28 @@ h1{
     overflow: auto;
     float: left;
     display: inline-block;
+    margin-right: -50px;
+    margin-left: 30px;
 }
 
 #bio h2 {
     font-weight: bold;
-    margin: 15px  30px;
+    margin-bottom: 30px: 
 }
 
 
 #bio-image {
     width 200px;
     height: 200px;
-    margin-left: 20px;
     border: 3px solid blue;
+    margin-left: 15px;
+    
 }
 
 /*about me pragraph */
 
 #about-me { 
-    width: 30%;
+    width: 32%;
     overflow: auto;
     text-align: left;
     float: left;
@@ -57,9 +60,9 @@ h1{
 }
 
 #contact {
-    width 15%;
+    width 5%;
     float: right;
-    margin-right: 25px;
+   
 }
 
 #contact h2 {
